@@ -1,5 +1,6 @@
 const Player = require('../lib/Player');
 const Potion = require('../lib/Potion');
+const Character = require('../lib/Character.js');
 
 jest.mock('../lib/Potion');
 
